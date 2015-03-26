@@ -1,69 +1,69 @@
-[submodule "sub/bufexplorer"]
-	path = sub/bufexplorer
-	url = git@github.com:jlanzarotta/bufexplorer.git
-[submodule "sub/ctrlp.vim"]
-	path = sub/ctrlp.vim
-	url = git@github.com:kien/ctrlp.vim.git
-[submodule "sub/dracula-theme"]
-	path = sub/dracula-theme
-	url = git@github.com:zenorocha/dracula-theme.git
-[submodule "sub/emmet-vim"]
-	path = sub/emmet-vim
-	url = git@github.com:mattn/emmet-vim.git
-[submodule "sub/gruvbox"]
-	path = sub/gruvbox
-	url = git@github.com:morhetz/gruvbox.git
-[submodule "sub/jshint.vim"]
-	path = sub/jshint.vim
-	url = git@github.com:wookiehangover/jshint.vim.git
-[submodule "sub/scss-syntax.vim"]
-	path = sub/scss-syntax.vim
-	url = git@github.com:cakebaker/scss-syntax.vim.git
-[submodule "sub/supertab"]
-	path = sub/supertab
-	url = git@github.com:ervandew/supertab.git
-[submodule "sub/tagbar"]
-	path = sub/tagbar
-	url = git@github.com:majutsushi/tagbar.git
-[submodule "sub/tlib_vim"]
-	path = sub/tlib_vim
-	url = git@github.com:tomtom/tlib_vim.git
-[submodule "sub/vim-addon-mw-utils"]
-	path = sub/vim-addon-mw-utils
-	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
-[submodule "sub/vim-autoformat"]
-	path = sub/vim-autoformat
-	url = git@github.com:Chiel92/vim-autoformat.git
-[submodule "sub/vim-colorschemes"]
-	path = sub/vim-colorschemes
-	url = git@github.com:flazz/vim-colorschemes.git
-[submodule "sub/vim-handlebars"]
-	path = sub/vim-handlebars
-	url = git@github.com:nono/vim-handlebars.git
-[submodule "sub/vim-indent-object"]
-	path = sub/vim-indent-object
-	url = git@github.com:michaeljsmith/vim-indent-object.git
-[submodule "sub/vim-javascript"]
-	path = sub/vim-javascript
-	url = git@github.com:pangloss/vim-javascript.git
-[submodule "sub/vim-jsbeautify"]
-	path = sub/vim-jsbeautify
-	url = git@github.com:maksimr/vim-jsbeautify.git
-[submodule "sub/vim-projectionist"]
-	path = sub/vim-projectionist
-	url = git@github.com:tpope/vim-projectionist.git
-[submodule "sub/vim-rake"]
-	path = sub/vim-rake
-	url = git@github.com:tpope/vim-rake.git
-[submodule "sub/vim-rails"]
-	path = sub/vim-rails
-	url = git@github.com:tpope/vim-rails.git
-[submodule "sub/vim-ruby"]
-	path = sub/vim-ruby
-	url = git@github.com:vim-ruby/vim-ruby.git
-[submodule "sub/vim-sensible"]
-	path = sub/vim-sensible
-	url = git@github.com:tpope/vim-sensible.git
-[submodule "sub/vim-snipmate"]
-	path = sub/vim-snipmate
-	url = git@github.com:garbas/vim-snipmate.git
+[submodule "bundle/bufexplorer"]
+  path = bundle/bufexplorer
+  url = git@github.com:jlanzarotta/bufexplorer.git
+[submodule "bundle/ctrlp.vim"]
+  path = bundle/ctrlp.vim
+  url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/dracula-theme"]
+  path = bundle/dracula-theme
+  url = git@github.com:zenorocha/dracula-theme.git
+[submodule "bundle/emmet-vim"]
+  path = bundle/emmet-vim
+  url = git@github.com:mattn/emmet-vim.git
+[submodule "bundle/gruvbox"]
+  path = bundle/gruvbox
+  url = git@github.com:morhetz/gruvbox.git
+[submodule "bundle/jshint.vim"]
+  path = bundle/jshint.vim
+  url = git@github.com:wookiehangover/jshint.vim.git
+[submodule "bundle/scss-syntax.vim"]
+  path = bundle/scss-syntax.vim
+  url = git@github.com:cakebaker/scss-syntax.vim.git
+[submodule "bundle/supertab"]
+  path = bundle/supertab
+  url = git@github.com:ervandew/supertab.git
+[submodule "bundle/tagbar"]
+  path = bundle/tagbar
+  url = git@github.com:majutsushi/tagbar.git
+[submodule "bundle/tlib_vim"]
+  path = bundle/tlib_vim
+  url = git@github.com:tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+  path = bundle/vim-addon-mw-utils
+  url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-autoformat"]
+  path = bundle/vim-autoformat
+  url = git@github.com:Chiel92/vim-autoformat.git
+[submodule "bundle/vim-colorschemes"]
+  path = bundle/vim-colorschemes
+  url = git@github.com:flazz/vim-colorschemes.git
+[submodule "bundle/vim-handlebars"]
+  path = bundle/vim-handlebars
+  url = git@github.com:nono/vim-handlebars.git
+[submodule "bundle/vim-indent-object"]
+  path = bundle/vim-indent-object
+  url = git@github.com:michaeljsmith/vim-indent-object.git
+[submodule "bundle/vim-javascript"]
+  path = bundle/vim-javascript
+  url = git@github.com:pangloss/vim-javascript.git
+[submodule "bundle/vim-jsbeautify"]
+  path = bundle/vim-jsbeautify
+  url = git@github.com:maksimr/vim-jsbeautify.git
+[submodule "bundle/vim-projectionist"]
+  path = bundle/vim-projectionist
+  url = git@github.com:tpope/vim-projectionist.git
+[submodule "bundle/vim-rake"]
+  path = bundle/vim-rake
+  url = git@github.com:tpope/vim-rake.git
+[submodule "bundle/vim-rails"]
+  path = bundle/vim-rails
+  url = git@github.com:tpope/vim-rails.git
+[submodule "bundle/vim-ruby"]
+  path = bundle/vim-ruby
+  url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "bundle/vim-sensible"]
+  path = bundle/vim-sensible
+  url = git@github.com:tpope/vim-sensible.git
+[submodule "bundle/vim-snipmate"]
+  path = bundle/vim-snipmate
+  url = git@github.com:garbas/vim-snipmate.git
